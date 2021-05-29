@@ -1,3 +1,3 @@
 # repoSabadosMayo
-Este es el repositorio del curso de Selenium Basico
-Curso de los sabados
+Esto es parte del ejericio 2!!
+Saludos
